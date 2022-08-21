@@ -1,19 +1,23 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "application to take notes",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "test": "jest",
+    "start": "node server.js"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamarisCanales/Note_Taker.git"
+  },
+  "author": "Damaris",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4"
+  "bugs": {
+    "url": "https://github.com/DamarisCanales/Note_Taker/issues"
   },
-  "devDependencies": {
-    "nodemon": "^2.0.19"
+  "homepage": "https://github.com/DamarisCanales/Note_Taker#readme",
+  "dependencies": {
+    "express": "^4.18.1"
   }
-
-
 }
