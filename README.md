@@ -42,11 +42,6 @@ if it has not been installed please navigate to https://nodejs.org/en/download/.
 
 This project provides an example of of how to leverage Express.js to create a back end that will save and retrieve note data to and from a JSON file.
 
-## Credits
-
-This project is derivative of starter code found here: 
-https://github.com/coding-boot-camp/miniature-eureka
-
 
 ## License
 
